@@ -7,5 +7,5 @@ declare function getMaxCharacterDuplicates(str: string): number
 ```ts
 let someString1 = 'abcakamba' // 7
 let someString2 = 'abc' // -1 нет повторений
-let someString3 = 'abcgdsijrnualu' // 10 
-``` 
+let someString3 = 'abcgdsijrnualu' // 10
+```
